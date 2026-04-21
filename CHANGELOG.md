@@ -8,3 +8,6 @@ All notable changes to encrypted-p2p-chat will be documented in this file.
 ## [0.1.1] - 2026-04-19
 - feat: implement Signal Double Ratchet protocol for forward secrecy
 
+## [0.1.2] - 2026-04-21
+- feat: integrate WebRTC data channels for direct zero-knowledge peer transport
+
