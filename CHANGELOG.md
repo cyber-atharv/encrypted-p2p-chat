@@ -11,3 +11,6 @@ All notable changes to encrypted-p2p-chat will be documented in this file.
 ## [0.1.2] - 2026-04-21
 - feat: integrate WebRTC data channels for direct zero-knowledge peer transport
 
+## [0.1.3] - 2026-04-24
+- feat: build SurrealDB storage layer for encrypted local message history
+
