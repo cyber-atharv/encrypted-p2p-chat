@@ -14,3 +14,6 @@ All notable changes to encrypted-p2p-chat will be documented in this file.
 ## [0.1.3] - 2026-04-24
 - feat: build SurrealDB storage layer for encrypted local message history
 
+## [0.1.4] - 2026-04-27
+- test: add fuzzing for out-of-order ratchet step recovery
+
